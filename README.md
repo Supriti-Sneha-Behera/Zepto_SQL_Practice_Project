@@ -4,13 +4,13 @@ A comprehensive SQL data analysis and cleaning project based on quick-commerce d
 
 # Project Structure
 
-Zepto_Excel_File.csv : The primary raw dataset containing product information, pricing, discounts, categories, and inventory metrics.
-SQL SCRIPT.sql : Contains all SQL queries ranging from data inspection, null checking, data cleaning steps, to business insight analysis.
+* Zepto_Excel_File.csv : The primary raw dataset containing product information, pricing, discounts, categories, and inventory metrics.
+* SQL SCRIPT.sql : Contains all SQL queries ranging from data inspection, null checking, data cleaning steps, to business insight analysis.
 
 # Tools Used 
 
-> Microsoft Excel
-> MySQL 
+* Microsoft Excel
+* MySQL 
  
 # Data Cleaning Process
 
