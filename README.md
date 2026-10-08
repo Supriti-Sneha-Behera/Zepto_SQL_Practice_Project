@@ -14,9 +14,9 @@ A comprehensive SQL data analysis and cleaning project based on quick-commerce d
  
 # Data Cleaning Process
 
-Before generating insights, the raw dataset underwent essential cleaning operations:
+Before generating insights, the raw dataset underwent essential cleaning operations :
 
-1. Identified and removed records where the MRP or Discounted Selling Price equaled .
+1. Identified and removed records where the MRP or Discounted Selling Price equaled.
 2. Converted monetary values from paise to standard rupees by dividing by 100.
 
 # Key Business Insights 
