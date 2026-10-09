@@ -2,16 +2,16 @@
 
 A comprehensive SQL data analysis and cleaning project based on quick-commerce dataset parameters (inspired by Zepto). This repository contains raw data, data cleaning scripts, and targeted business insights derived through SQL queries.
 
-# Project Structure
+# Tools Used 
+
+* Microsoft Excel
+* MySQL
+
+# Project Architecture
 
 * Zepto_Excel_File.csv : The primary raw dataset containing product information, pricing, discounts, categories, and inventory metrics.
 * SQL SCRIPT.sql : Contains all SQL queries ranging from data inspection, null checking, data cleaning steps, to business insight analysis.
 
-# Tools Used 
-
-* Microsoft Excel
-* MySQL 
- 
 # Data Cleaning Process
 
 Before generating insights, the raw dataset underwent essential cleaning operations :
@@ -32,7 +32,7 @@ The project answers several key analytical and business-oriented questions insid
 * Segmented products into `LOW`, `MEDIUM`, and `BULK` brackets using `CASE` statements based on package weight.
 * Computed total inventory weight per product category.
 
-# How to Use
+# Repository Structure
 
 1. Download this repository.
 2. Import `Zepto_Excel_File.csv` into your SQL database environment.
