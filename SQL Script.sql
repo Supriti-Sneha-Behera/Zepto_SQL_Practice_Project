@@ -142,26 +142,3 @@ FROM zepto_sql_project.zepto
 GROUP BY category
 ORDER BY total_weight
 ;
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
